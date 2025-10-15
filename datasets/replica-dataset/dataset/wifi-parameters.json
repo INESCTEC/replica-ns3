@@ -1,0 +1,8 @@
+{
+  "tx_power_dbm": 1,
+  "tx_gain_dbi": -7,
+  "rx_gain_dbi": -7,
+  "frequency_mhz": 5220,
+  "bandwidth_mhz": 20,
+  "wifi_standard": "802.11a"
+}

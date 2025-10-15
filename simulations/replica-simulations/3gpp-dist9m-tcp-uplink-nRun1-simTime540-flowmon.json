@@ -1,0 +1,32 @@
+{
+  "Flows": [
+    {
+      "Flow ID": 1,
+      "Source Address": "7.0.0.2",
+      "Destination Address": "1.0.0.2",
+      "Tx Packets": 14402822,
+      "Tx Bytes": 7495881348,
+      "Tx Offered (Mbps)": 110.845,
+      "Rx Packets": 14381396,
+      "Rx Bytes": 7484768396,
+      "Mean Delay (ms)": 790.687,
+      "Mean Jitter (ms)": 0.0751411,
+      "Throughput (Mbps)": 110.683,
+      "Packet Loss Ratio (%)": 0.148763
+    },
+    {
+      "Flow ID": 2,
+      "Source Address": "1.0.0.2",
+      "Destination Address": "7.0.0.2",
+      "Tx Packets": 7190698,
+      "Tx Bytes": 373916300,
+      "Tx Offered (Mbps)": 5.52941,
+      "Rx Packets": 7190698,
+      "Rx Bytes": 373916300,
+      "Mean Delay (ms)": 2.59122,
+      "Mean Jitter (ms)": 0.0017475,
+      "Throughput (Mbps)": 5.52941,
+      "Packet Loss Ratio (%)": 0
+    }
+  ]
+}

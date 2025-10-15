@@ -1,0 +1,4344 @@
+{
+    "general_info": {
+        "host_ip": "10.11.32.205",
+        "device_serial": "A75259FRCN9A2DV0538"
+    },
+    "samples": [
+        {
+            "iteration": 1,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 2,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 3,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 4,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 5,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 6,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 7,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 8,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 9,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 10,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 11,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 12,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 13,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 14,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 15,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 16,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 17,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 18,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 19,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 20,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 21,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 22,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 23,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 24,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 25,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 26,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 27,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 28,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 29,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 30,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 31,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 32,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 33,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 34,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 35,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 36,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 37,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 38,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 39,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 40,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 41,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 42,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 43,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 44,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 45,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 46,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 47,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 48,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 49,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 50,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 51,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 52,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 53,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 54,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 55,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 56,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 57,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 58,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 59,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 60,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 61,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 62,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 63,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 64,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 65,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 66,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 67,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 68,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 69,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 70,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 71,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 72,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 73,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 74,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 75,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 76,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 77,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 78,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 79,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 80,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 81,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 82,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 83,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 84,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 85,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 86,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 87,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 88,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 89,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 90,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 91,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 92,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 93,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 94,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 95,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 96,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 97,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 98,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 99,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 100,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 101,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 102,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 103,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 104,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 105,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 106,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 107,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 108,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 109,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 110,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 111,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 112,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 113,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 114,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 115,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 116,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 117,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 118,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 119,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 120,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 121,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 122,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 123,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 124,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 125,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 126,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 127,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 128,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 129,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 130,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 131,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 132,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 133,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 134,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 135,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 136,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 137,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 138,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 139,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 140,
+            "mBands": 78,
+            "ssRsrp": -81,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 2
+        },
+        {
+            "iteration": 141,
+            "mBands": 78,
+            "ssRsrp": -81,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 2
+        },
+        {
+            "iteration": 142,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 143,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 144,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 145,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 146,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 147,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 148,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 149,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 150,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 151,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 152,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 153,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 154,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 155,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 156,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 157,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 158,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 159,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 160,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 161,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 162,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 163,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 164,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 165,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 166,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 167,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 168,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 169,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 170,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 171,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 172,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 173,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 174,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 175,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 176,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 177,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 178,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 179,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 180,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 181,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 182,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 183,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 184,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 185,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 186,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 187,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 188,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 189,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 190,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 191,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 192,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 193,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 194,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 195,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 196,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 197,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 198,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 199,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 200,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 201,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 202,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 203,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 204,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 205,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 206,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 207,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 208,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 209,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 210,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 211,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 212,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 213,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 214,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 215,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 216,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 217,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 218,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 219,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 220,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 221,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 222,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 223,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 224,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 225,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 226,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 227,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 228,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 229,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 230,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 231,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 232,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 233,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 234,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 235,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 236,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 237,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 238,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 239,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 240,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 241,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 242,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 243,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 244,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 245,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 246,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 247,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 248,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 249,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 250,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 251,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 252,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 253,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 254,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 255,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 256,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 257,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 258,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 259,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 260,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 261,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 262,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 263,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 264,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 265,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 266,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 267,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 268,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 269,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 270,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 271,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 272,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 273,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 274,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 275,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 276,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 277,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 278,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 279,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 280,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 281,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 282,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 283,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 284,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 285,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 286,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 287,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 288,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 289,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 290,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 291,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 292,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 293,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 294,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 295,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 296,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 297,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 298,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 299,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 300,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 301,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 302,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 303,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 304,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 305,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 306,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 307,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 308,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 309,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 310,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 311,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 312,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 313,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 314,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 315,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 316,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 317,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 318,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 319,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 320,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 321,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 322,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 323,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 324,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 325,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 326,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 327,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 328,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 329,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 330,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 331,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 332,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 333,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 334,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 335,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 336,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 337,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 338,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 339,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 340,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 341,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 342,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 343,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 344,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 345,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 346,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 347,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 348,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 349,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 350,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 351,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 352,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 353,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 354,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 355,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 356,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 357,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 358,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 359,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 360,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 361,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 362,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 363,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 364,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 365,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 366,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 367,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 368,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 369,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 370,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 371,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 372,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 373,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 374,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 375,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 376,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 377,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 378,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 379,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 380,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 381,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 382,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 383,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 384,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 385,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 386,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 387,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 388,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 389,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 390,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 391,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 392,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 393,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 394,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 395,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 396,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 397,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 398,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 399,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 400,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 401,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 402,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 403,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 404,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 405,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 406,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 407,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 408,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 409,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 410,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 411,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 412,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 413,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 414,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 415,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 416,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 417,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 418,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 419,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 420,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 421,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 422,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 423,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 424,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 425,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 426,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 427,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 428,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 429,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 430,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 431,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 432,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 433,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 434,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 435,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 436,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 437,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 438,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 439,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 440,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 441,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 442,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 443,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 444,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 445,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 446,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 447,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 448,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 449,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 450,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 451,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 452,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 453,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 454,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 455,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 456,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 457,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 458,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 459,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 460,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 461,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 462,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 463,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 464,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 465,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 466,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 467,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 468,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 469,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 470,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 471,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 472,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 473,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 474,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 475,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 476,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 477,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 478,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 479,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 480,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 481,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 482,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 483,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 484,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 485,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 486,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 487,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 488,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 489,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 490,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 491,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 492,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 493,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 494,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 495,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 496,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 497,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 498,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 499,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 500,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 501,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 502,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 503,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 504,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 505,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 506,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 507,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 508,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 509,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 510,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 511,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 512,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 513,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 514,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 515,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 516,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 517,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 518,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 519,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 520,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 521,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 522,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 523,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 524,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 525,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 526,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 527,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 528,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 529,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 530,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 531,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 532,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 533,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 534,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 535,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 536,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 537,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 538,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 539,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        },
+        {
+            "iteration": 540,
+            "mBands": 78,
+            "ssRsrp": -80,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 3
+        }
+    ],
+    "statistics": {
+        "mean": {
+            "mBands": 78,
+            "ssRsrp": -80.0037037037037,
+            "ssRsrq": -11,
+            "ssSinr": 34,
+            "level": 2.9962962962962965
+        },
+        "std_dev": {
+            "mBands": 0.0,
+            "ssRsrp": 0.060801581132901794,
+            "ssRsrq": 0.0,
+            "ssSinr": 0.0,
+            "level": 0.060801581132901794
+        }
+    }
+}

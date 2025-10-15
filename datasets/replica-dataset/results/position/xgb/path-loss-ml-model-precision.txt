@@ -1,0 +1,2 @@
+Score: nan
+MSE: 675.663
