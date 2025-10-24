@@ -43,7 +43,7 @@ The following dependencies are needed:
 * [Trace-Based Propagation Loss Model](https://gitlab.com/inesctec-ns3/trace-based-propagation-loss-model):
 
   ```shell
-  git clone https://gitlab.com/inesctec-ns3/trace-based-propagation-loss-model.git
+  git clone --branch=v0.1 https://gitlab.com/inesctec-ns3/trace-based-propagation-loss-model.git
   ```
 
 ## Python Setup

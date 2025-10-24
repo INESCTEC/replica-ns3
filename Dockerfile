@@ -21,7 +21,9 @@ RUN git clone --depth=1 --branch=v1.2.0 https://github.com/hust-diangroup/ns3-ai
 RUN git clone --depth=1 https://gitlab.com/inesctec-ns3/ml-propagation-loss-model.git \
     && pip3 install --break-system-packages -r ./ml-propagation-loss-model/requirements.txt \
     && pip3 install --break-system-packages ./ns3-ai/py_interface
-RUN git clone --depth=1 https://gitlab.com/inesctec-ns3/trace-based-propagation-loss-model.git
+
+ARG NS3_TBPL_VERSION=v0.1
+RUN git clone --depth=1 --branch=${NS3_TBPL_VERSION} https://gitlab.com/inesctec-ns3/trace-based-propagation-loss-model.git
 
 ARG NS3_NR_VERSION=5g-lena-v4.0.y
 RUN git clone --depth=1 --branch=${NS3_NR_VERSION} https://gitlab.com/cttc-lena/nr.git

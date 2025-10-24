@@ -62,6 +62,7 @@ To build the Docker image, run the following command:
 ```shell
 docker build \
   [--build-arg NS3_VERSION=ns-3.44] \
+  [--build-arg NS3_TBPL_VERSION=v0.1] \
   [--build-arg NS3_NR_VERSION=5g-lena-v4.0.y] \
   -t replica-ns3 .
 ```
