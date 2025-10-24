@@ -37,7 +37,7 @@ The following dependencies are needed:
 * [ML Propagation Loss Model (MLPL)](https://gitlab.com/inesctec-ns3/ml-propagation-loss-model):
 
   ```shell
-  git clone https://gitlab.com/inesctec-ns3/ml-propagation-loss-model.git
+  git clone --branch=1.0.2 https://gitlab.com/inesctec-ns3/ml-propagation-loss-model.git
   ```
 
 * [Trace-Based Propagation Loss Model](https://gitlab.com/inesctec-ns3/trace-based-propagation-loss-model):
