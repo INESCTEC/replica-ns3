@@ -68,7 +68,7 @@ docker build \
 
 In order to ensure that the Docker image is built with the latest third-party dependencies available, add the `--no-cache` flag to the command above. Otherwise, the Docker image can be generated with cached dependencies from previous builds.
 
-By default, the Docker image is generated with the latest development version of ns-3. To use a specific version of ns-3, for instance `ns-3.44`, add the flag `--build-arg NS3_VERSION=ns-3.44` to the above command. To use a specific version of the ns-3 [5G NR module](https://gitlab.com/cttc-lena/nr), for instance `5g-lena-v4.0.y`, add the flag `--build-arg NS3_NR_VERSION=5g-lena-v4.0.y` to the above command.
+The `--build-arg` optional arguments allow the specification of the versions of ns-3 and the dependencies of this project. By default, the Docker image will be generated with the versions used to generate the results of the project, whose values are indicated in the command above.
 
 ### Run Docker Image
 
